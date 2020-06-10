@@ -1,4 +1,4 @@
-module nhooyr.io/websocket
+module github.com/kiteco/websocket
 
 go 1.13
 
@@ -12,4 +12,5 @@ require (
 	github.com/gorilla/websocket v1.4.1
 	github.com/klauspost/compress v1.10.3
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
+	nhooyr.io/websocket v1.8.6
 )

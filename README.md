@@ -1,3 +1,7 @@
+### `kiteco` fork to appease godep
+
+Once godep is evicted, switch back to upstream
+
 # websocket
 
 [![godoc](https://godoc.org/nhooyr.io/websocket?status.svg)](https://pkg.go.dev/nhooyr.io/websocket)

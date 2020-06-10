@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	"nhooyr.io/websocket/internal/errd"
-	"nhooyr.io/websocket/internal/xsync"
+	"github.com/kiteco/websocket/internal/errd"
+	"github.com/kiteco/websocket/internal/xsync"
 )
 
 // Reader reads from the connection until until there is a WebSocket
